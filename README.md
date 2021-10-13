@@ -1,10 +1,10 @@
-### Hey 👋, I'm qiudaoermu
+
 
 [![Github](https://img.shields.io/github/followers/qiudaoermu?label=Follow&style=social)](https://github.com/qiudaoermu)
 
 <a href="https://github.com/qiudaoermu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qiudaoermu&show_icons=true&theme=merko&count_private=true" alt="qiudaoermu's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiudaoermu&theme=merko&layout=compact" alt="qiudaoermu's github top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qiudaoermu&show_icons=true&count_private=true" alt="qiudaoermu's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiudaoermu&layout=compact" alt="qiudaoermu's github top languages" />
 </a>
 <br/>
 
