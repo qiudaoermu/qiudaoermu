@@ -28,6 +28,4 @@ Here are some ideas to get you started:
 - [「知乎」如何评价 MIUI 6？](https://qiudaoermu.github.io//2014/08/16/miui6/)
 <!-- BLOG-POST-LIST:END -->
 
-📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=qiudaoermu&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
