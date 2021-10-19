@@ -24,10 +24,8 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [⛓-vue中使provide中的数据变为响应式](https://qiudaoermu.github.io//2015/01/29/vue%E4%B8%AD%E4%BD%BFprovide%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E5%8F%98%E4%B8%BA%E5%93%8D%E5%BA%94%E5%BC%8F/)
+- [「知乎」如何评价 MIUI 6？](https://qiudaoermu.github.io//2014/08/16/miui6/)
 <!-- BLOG-POST-LIST:END -->
 
 📊 &nbsp;**This week I spent my time on**
