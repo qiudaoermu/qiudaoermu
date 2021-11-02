@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [🧰 前端常用命名](https://qiudaoermu.github.io//2021/11/02/%E5%89%8D%E7%AB%AF%E5%B8%B8%E7%94%A8%E5%91%BD%E5%90%8D/)
+- [🟩 你的github是空的吗](https://qiudaoermu.github.io//2021/11/01/%E4%BD%A0%E7%9A%84github%E6%98%AF%E7%A9%BA%E7%9A%84%E5%90%97/)
 - [🔥 Python + Javascript = 🔥🔥🔥](https://qiudaoermu.github.io//2021/10/21/Python-+-JavaScript-=/)
 - [🔋 React 高阶组件hotc和@装饰器](https://qiudaoermu.github.io//2021/10/21/react-%E9%AB%98%E9%98%B6%E7%BB%84%E4%BB%B6hotc%E5%92%8C@%E8%A3%85%E9%A5%B0%E5%99%A8/)
-- [🏏 团队研发效率提升梳理](https://qiudaoermu.github.io//2021/10/21/%E5%9B%A2%E9%98%9F%E7%A0%94%E5%8F%91%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87%E6%A2%B3%E7%90%86/)
-- [🍿 Npm发布，package Json, 版本自动控制](https://qiudaoermu.github.io//2021/10/21/npm%E5%8F%91%E5%B8%83-package-json,-%E7%89%88%E6%9C%AC%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6/)
 <!-- BLOG-POST-LIST:END -->
 
 
