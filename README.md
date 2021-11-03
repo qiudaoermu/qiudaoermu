@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [🧰 前端常用命名](https://qiudaoermu.github.io//2021/11/02/%E5%89%8D%E7%AB%AF%E5%B8%B8%E7%94%A8%E5%91%BD%E5%90%8D/)
-- [🟩 你的github是空的吗](https://qiudaoermu.github.io//2021/11/01/%E4%BD%A0%E7%9A%84github%E6%98%AF%E7%A9%BA%E7%9A%84%E5%90%97/)
+- [🟨 正则表达式中^的用法](https://qiudaoermu.github.io//2021/10/21/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E4%B8%AD-%E7%9A%84%E7%94%A8%E6%B3%95/)
 - [🔥 Python + Javascript = 🔥🔥🔥](https://qiudaoermu.github.io//2021/10/21/Python-+-JavaScript-=/)
 - [🔋 React 高阶组件hotc和@装饰器](https://qiudaoermu.github.io//2021/10/21/react-%E9%AB%98%E9%98%B6%E7%BB%84%E4%BB%B6hotc%E5%92%8C@%E8%A3%85%E9%A5%B0%E5%99%A8/)
+- [📖 在你自学计算机的路上，哪些书籍对你的帮助最大](https://qiudaoermu.github.io//2021/10/21/%E5%9C%A8%E4%BD%A0%E8%87%AA%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E8%B7%AF%E4%B8%8A-%E5%93%AA%E4%BA%9B%E4%B9%A6%E7%B1%8D%E5%AF%B9%E4%BD%A0%E7%9A%84%E5%B8%AE%E5%8A%A9%E6%9C%80%E5%A4%A7/)
 <!-- BLOG-POST-LIST:END -->
 
 
