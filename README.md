@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Letcode](https://qiudaoermu.github.io//2021/11/04/letcode/)
-- [📣 前端常用命名](https://qiudaoermu.github.io//2021/11/03/%E5%89%8D%E7%AB%AF%E5%B8%B8%E7%94%A8%E5%91%BD%E5%90%8D/)
+- [🪞🪞 Npm 代理管理工具    Nrm](https://qiudaoermu.github.io//2021/10/21/npm-%E4%BB%A3%E7%90%86%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-nrm/)
 - [🟨 正则表达式中^的用法](https://qiudaoermu.github.io//2021/10/21/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E4%B8%AD-%E7%9A%84%E7%94%A8%E6%B3%95/)
-- [🔥 Python + Javascript = 🔥🔥🔥](https://qiudaoermu.github.io//2021/10/21/Python-+-JavaScript-=/)
+- [🟢 Letcode](https://qiudaoermu.github.io//2021/10/21/letcode/)
+- [😄😁 读取后端验证码图片的几种方法](https://qiudaoermu.github.io//2021/10/21/%E8%AF%BB%E5%8F%96%E5%90%8E%E7%AB%AF%E9%AA%8C%E8%AF%81%E7%A0%81%E5%9B%BE%E7%89%87%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95/)
 <!-- BLOG-POST-LIST:END -->
 
 
