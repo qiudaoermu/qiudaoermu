@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Have you done anything interesting with AI/ML?](https://dev.to/ben/have-you-done-anything-interesting-with-aiml-1i2c)
+- [Meme Monday!](https://dev.to/ben/meme-monday-1ei5)
+- [Side Project Sunday! Hacking on anything?](https://dev.to/ben/side-project-sunday-hacking-on-anything-3f04)
+- [How does flimsy code affect your mental health?](https://dev.to/ben/how-does-flimsy-code-affect-your-mental-health-457c)
 <!-- BLOG-POST-LIST:END -->
 
 
