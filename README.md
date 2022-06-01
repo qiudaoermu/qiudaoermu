@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [【越哥】90年代最好的家庭片，这么扎实的剧本，现在很难见到了](https://www.youtube.com/watch?v=vquZeCxky1U)
 - [【越哥】又一部港片遗珠，大牌云集，热血之作，当年票房却只有200万！](https://www.youtube.com/watch?v=M3mYc9byiAM)
 - [【越哥】另类的国产电影，另类的父女关系，你能接受这样的父亲吗？](https://www.youtube.com/watch?v=Epi-62167ts)
 - [【越哥】2016年尺度最大的韩国电影，拍出了现代人，难以启齿的难处！](https://www.youtube.com/watch?v=OXQDmYp6YQI)
-- [【越哥】没有一句废话！如果国产片都能这么拍，何愁没观众？](https://www.youtube.com/watch?v=2Fuw-aMLpyM)
 <!-- BLOG-POST-LIST:END -->
 
 
