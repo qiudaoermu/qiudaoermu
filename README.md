@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 - [【越哥】又一部港片遗珠，大牌云集，热血之作，当年票房却只有200万！](https://www.youtube.com/watch?v=M3mYc9byiAM)
 - [【越哥】另类的国产电影，另类的父女关系，你能接受这样的父亲吗？](https://www.youtube.com/watch?v=Epi-62167ts)
 - [【越哥】2016年尺度最大的韩国电影，拍出了现代人，难以启齿的难处！](https://www.youtube.com/watch?v=OXQDmYp6YQI)
+- [【越哥】没有一句废话！如果国产片都能这么拍，何愁没观众？](https://www.youtube.com/watch?v=2Fuw-aMLpyM)
+- [【越哥】40亿票房神话，全球男人的梦想，都在这部日本电影里！](https://www.youtube.com/watch?v=F0wCn1IalxY)
+- [【越哥】30多次反转的电影，从头爽到尾，不愧是最佳西部片！](https://www.youtube.com/watch?v=rgAId3mw9BA)
+- [【越哥】第一次见这种国产片，太前卫了，不敢相信是80年代的电影！](https://www.youtube.com/watch?v=T5h8sGJa2wU)
 <!-- BLOG-POST-LIST:END -->
 
 
