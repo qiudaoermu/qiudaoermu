@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [【越哥】影史最出色的战争片之一，不愧是大师之作，讽刺性十足！](https://www.youtube.com/watch?v=-ItvsBwwRdk)
-- [【越哥】90年代最好的家庭片，这么扎实的剧本，现在很难见到了](https://www.youtube.com/watch?v=vquZeCxky1U)
-- [【越哥】又一部港片遗珠，大牌云集，热血之作，当年票房却只有200万！](https://www.youtube.com/watch?v=M3mYc9byiAM)
-- [【越哥】另类的国产电影，另类的父女关系，你能接受这样的父亲吗？](https://www.youtube.com/watch?v=Epi-62167ts)
-- [【越哥】2016年尺度最大的韩国电影，拍出了现代人，难以启齿的难处！](https://www.youtube.com/watch?v=OXQDmYp6YQI)
-- [【越哥】没有一句废话！如果国产片都能这么拍，何愁没观众？](https://www.youtube.com/watch?v=2Fuw-aMLpyM)
-- [【越哥】40亿票房神话，全球男人的梦想，都在这部日本电影里！](https://www.youtube.com/watch?v=F0wCn1IalxY)
-- [【越哥】30多次反转的电影，从头爽到尾，不愧是最佳西部片！](https://www.youtube.com/watch?v=rgAId3mw9BA)
+- [厨师长自制“糖桂花”，传统的香甜味道，给四伯爷做“桂花香酥虾”](https://www.youtube.com/watch?v=2PCJYWyd1ro)
+- [后厨试菜纪录：师徒三人各做一锅小龙虾，相同做法，不同味道](https://www.youtube.com/watch?v=N8pScYhZO3Y)
+- [厨师长教你：“蒜香虾仁”的家常做法，蒜香味浓，虾肉Q弹](https://www.youtube.com/watch?v=Trxh0iZ8FUM)
+- [厨师长交作业“桥头三嫩”，三种食材一锅成菜，又嫩又脆，自贡家常味](https://www.youtube.com/watch?v=Dadf4ubGUXc)
+- [厨师长探店十秒成菜“桥头三嫩”，肚头、腰花、嫩肝，自贡家常味，对火候极致的控制](https://www.youtube.com/watch?v=SSHIGoqlRt8)
+- [厨师长教你：“油爆小河虾”的家常做法，壳脆肉嫩，汤汁饱满，经典本帮菜](https://www.youtube.com/watch?v=dBIewnRNS8U)
+- [厨师长教你：“青瓜拌皮蛋”的家常做法，酸辣爽脆，简单美味](https://www.youtube.com/watch?v=vGJMfQ1Sesk)
+- [刀功教学第1期：如何剁筒骨、棒子骨、排骨等较硬容易砍飞的骨头](https://www.youtube.com/watch?v=z9giRT1Nmgc)
 <!-- BLOG-POST-LIST:END -->
 
 
