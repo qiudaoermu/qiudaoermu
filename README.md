@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [厨师长分享“炼猪油” 的细节技巧，清澈无杂质，油渣炒菜还能增香](https://www.youtube.com/watch?v=yUVyx_KY5zo)
 - [刀功教学第2期：认刀、握刀、放刀，后厨刀功基础知识](https://www.youtube.com/watch?v=ov6-SSFq-Yo)
 - [厨师长教你中式甜点：“糯米糖藕”“桂花糯米藕”，软糯香甜，色泽红润](https://www.youtube.com/watch?v=UhNNfHvtB_Q)
 - [厨师长教你：“糖醋鲤鱼”的“跃龙门”做法，外酥里嫩，酸甜适口](https://www.youtube.com/watch?v=PmVXsJqxOy0)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [后厨试菜纪录：师徒三人各做一锅小龙虾，相同做法，不同味道](https://www.youtube.com/watch?v=N8pScYhZO3Y)
 - [厨师长教你：“蒜香虾仁”的家常做法，蒜香味浓，虾肉Q弹](https://www.youtube.com/watch?v=Trxh0iZ8FUM)
 - [厨师长交作业“桥头三嫩”，三种食材一锅成菜，又嫩又脆，自贡家常味](https://www.youtube.com/watch?v=Dadf4ubGUXc)
-- [厨师长探店十秒成菜“桥头三嫩”，肚头、腰花、嫩肝，自贡家常味，对火候极致的控制](https://www.youtube.com/watch?v=SSHIGoqlRt8)
 <!-- BLOG-POST-LIST:END -->
 
 
