@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [刀功教学第4期：“拍砍、跟砍、直砍” 基础砍法及注意事项](https://www.youtube.com/watch?v=MUup35WujW0)
 - [厨师长做15个“四喜丸子”，四伯爷连吃4个才过瘾，安逸得很](https://www.youtube.com/watch?v=6vCYtdL2vyU)
 - [厨师长教你：“豆豉鲮鱼油麦菜”的家常做法，翠绿爽口，咸鲜干香](https://www.youtube.com/watch?v=Pg1JjOhqNTA)
 - [厨师长给四伯做一份“嘎嘣脆”黄金炒饭，米饭不够，用生米也能来做炒饭](https://www.youtube.com/watch?v=2yeBXm-of14)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [厨师长分享鲁菜：“九转大肠”，酸甜苦辣咸五味俱全，洗焯煮汆煸烧煨㸆，九转成菜](https://www.youtube.com/watch?v=CL12eXx2YuM)
 - [厨师长分享“炼猪油” 的细节技巧，清澈无杂质，油渣炒菜还能增香](https://www.youtube.com/watch?v=yUVyx_KY5zo)
 - [刀功教学第2期：认刀、握刀、放刀，后厨刀功基础知识](https://www.youtube.com/watch?v=ov6-SSFq-Yo)
-- [厨师长教你中式甜点：“糯米糖藕”“桂花糯米藕”，软糯香甜，色泽红润](https://www.youtube.com/watch?v=UhNNfHvtB_Q)
 <!-- BLOG-POST-LIST:END -->
 
 
