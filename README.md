@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [刀功教学第5期：“拍蒜的正确姿势”，蒜不会乱飞](https://www.youtube.com/watch?v=fi1mP3phH00)
 - [宽菜新店历经半年打磨即将开业，立志让川式卤味走出家乡遍地开花](https://www.youtube.com/watch?v=ZafuB57YJIU)
 - [厨师长教你：川味“水煮鸡丝”的家常做法，香辣入味，下饭必备](https://www.youtube.com/watch?v=a5ALB-2q1K4)
 - [和厨师长一起制作“珊瑚鱼”，沉浸式体验真实后厨操作【第一人称视角做菜】](https://www.youtube.com/watch?v=RO036m2jvK8)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [厨师长教你：“肉末烧滑子菇”的家常做法，汤汁浓郁，鲜香味美](https://www.youtube.com/watch?v=RhGv8I5RXfs)
 - [“宽菜工厂”已成雏形，父亲和四伯参观后惊叹：年轻人干劲就是好](https://www.youtube.com/watch?v=-Zp6zA9OPzM)
 - [后厨试菜纪录：比鸡蛋价高五倍的鸵鸟蛋值不值？一蛋三吃综合测评](https://www.youtube.com/watch?v=P5LTh8j5GzI)
-- [刀功教学第4期：“拍砍、跟砍、直砍” 基础砍法及注意事项](https://www.youtube.com/watch?v=MUup35WujW0)
 <!-- BLOG-POST-LIST:END -->
 
 
