@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [厨师长教你：“开胃凉拌花生”“芥末拌花生”，夏季必备，爽脆开胃](https://www.youtube.com/watch?v=86pXYA_SiLc)
 - [天气炎热，厨师长用土豆淀粉做“川味凉粉”，开胃又解暑](https://www.youtube.com/watch?v=_TGki_Mht88)
 - [厨师长教你：“酸辣小炒牛肉”的家常做法，酸辣开胃，干香下饭](https://www.youtube.com/watch?v=gLnY_hUjU0c)
 - [刀功教学第5期：“拍蒜的正确姿势”，蒜不会乱飞](https://www.youtube.com/watch?v=fi1mP3phH00)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [厨师长教你：川味“水煮鸡丝”的家常做法，香辣入味，下饭必备](https://www.youtube.com/watch?v=a5ALB-2q1K4)
 - [和厨师长一起制作“珊瑚鱼”，沉浸式体验真实后厨操作【第一人称视角做菜】](https://www.youtube.com/watch?v=RO036m2jvK8)
 - [厨师长一道“砂锅剁椒鱼头”俘获四伯的胃，笑称你会做我会吃，天生一对](https://www.youtube.com/watch?v=4Nj85j1RBXU)
-- [厨师长教你：“肉末烧滑子菇”的家常做法，汤汁浓郁，鲜香味美](https://www.youtube.com/watch?v=RhGv8I5RXfs)
 <!-- BLOG-POST-LIST:END -->
 
 
