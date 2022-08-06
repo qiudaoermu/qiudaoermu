@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [厨师长教你：“冬瓜排骨扣碗”“冬瓜蒸排骨”，软烂脱骨，适合老人小孩](https://www.youtube.com/watch?v=0zYD9bAATSM)
 - [厨师长教你：&quot;鲜烧带鱼&quot;“青椒烧带鱼”，汤汁浓郁，色味俱佳](https://www.youtube.com/watch?v=i7dFev-rgLI)
 - [给四伯做两菜一汤，创新版“油爆鳝片”中加入猪肚和鸡肉，好吃！](https://www.youtube.com/watch?v=avEfMjAoy9o)
 - [厨师长教你：“开胃凉拌花生”“芥末拌花生”，夏季必备，爽脆开胃](https://www.youtube.com/watch?v=86pXYA_SiLc)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [厨师长教你：“酸辣小炒牛肉”的家常做法，酸辣开胃，干香下饭](https://www.youtube.com/watch?v=gLnY_hUjU0c)
 - [刀功教学第5期：“拍蒜的正确姿势”，蒜不会乱飞](https://www.youtube.com/watch?v=fi1mP3phH00)
 - [宽菜新店历经半年打磨即将开业，立志让川式卤味走出家乡遍地开花](https://www.youtube.com/watch?v=ZafuB57YJIU)
-- [厨师长教你：川味“水煮鸡丝”的家常做法，香辣入味，下饭必备](https://www.youtube.com/watch?v=a5ALB-2q1K4)
 <!-- BLOG-POST-LIST:END -->
 
 
