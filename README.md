@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [四川人小时候的味道“蒜苗回锅肉”，传统菜不能丢，要常做来吃](https://www.youtube.com/watch?v=oeATRssHw2Q)
 - [厨师长教你：“香菜牛肉”的家常做法，香嫩鲜辣，下饭一绝](https://www.youtube.com/watch?v=Sg6lL5nOCAY)
 - [厨师长用鲜核桃做创新版“宫保鸡丁”，糊辣香嫩，四伯爷打99分](https://www.youtube.com/watch?v=jArsVnwbLmc)
 - [厨师长教你：“豆角烧排骨”“豆角土豆炖排骨”，荤素搭配，汁浓味美](https://www.youtube.com/watch?v=Gg6rw_K0zgw)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [厨师长教你：“鲜椒鲫鱼”“葱葱鲫鱼”，鲜辣入味，椒香葱香十足](https://www.youtube.com/watch?v=WD45N_apLDI)
 - [厨师长教你：“泡椒黄喉”的家常做法，酸辣开胃，爽脆可口](https://www.youtube.com/watch?v=aVuqWEX2sRQ)
 - [和家里两位老人聊人生经历，老爸不出镜除了害羞其实还另有原因](https://www.youtube.com/watch?v=DQ4rBopogF8)
-- [厨师长教你：“冬瓜排骨扣碗”“冬瓜蒸排骨”，软烂脱骨，适合老人小孩](https://www.youtube.com/watch?v=0zYD9bAATSM)
 <!-- BLOG-POST-LIST:END -->
 
 
