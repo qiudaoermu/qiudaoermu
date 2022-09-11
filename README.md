@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [厨师长教你：“红烧牛肉”的家常做法，软烂入味，肉香四溢](https://www.youtube.com/watch?v=PHhEMGlL-1I)
 - [厨师长分享：“大蒜鲶鱼煲”，小火慢焖，电磁炉也能做的家常味](https://www.youtube.com/watch?v=eYsfgEyUX2k)
 - [厨师长小技巧：“炒空心菜”，秘密武器让菜梗也能脆、绿、口感好](https://www.youtube.com/watch?v=GKOWp-IzRM8)
 - [厨师长教你：“松仁玉米”的家常做法，色香俱全，小孩最爱](https://www.youtube.com/watch?v=lWQ4SsZQAhQ)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [厨师长教你：“香菜牛肉”的家常做法，香嫩鲜辣，下饭一绝](https://www.youtube.com/watch?v=Sg6lL5nOCAY)
 - [厨师长用鲜核桃做创新版“宫保鸡丁”，糊辣香嫩，四伯爷打99分](https://www.youtube.com/watch?v=jArsVnwbLmc)
 - [厨师长教你：“豆角烧排骨”“豆角土豆炖排骨”，荤素搭配，汁浓味美](https://www.youtube.com/watch?v=Gg6rw_K0zgw)
-- [给四伯爷做“青椒肉丝炒饭”，朴实无华的真家常菜，有家的味道](https://www.youtube.com/watch?v=bvI7GpxMFlc)
 <!-- BLOG-POST-LIST:END -->
 
 
