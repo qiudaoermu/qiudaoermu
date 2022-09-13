@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [厨师长教你：“红烧牛肉”的家常做法，软烂入味，肉香四溢](https://www.youtube.com/watch?v=PHhEMGlL-1I)
-- [厨师长分享：“大蒜鲶鱼煲”，小火慢焖，电磁炉也能做的家常味](https://www.youtube.com/watch?v=eYsfgEyUX2k)
-- [厨师长小技巧：“炒空心菜”，秘密武器让菜梗也能脆、绿、口感好](https://www.youtube.com/watch?v=GKOWp-IzRM8)
-- [厨师长教你：“松仁玉米”的家常做法，色香俱全，小孩最爱](https://www.youtube.com/watch?v=lWQ4SsZQAhQ)
-- [四川人小时候的味道“蒜苗回锅肉”，传统菜不能丢，要常做来吃](https://www.youtube.com/watch?v=oeATRssHw2Q)
-- [厨师长教你：“香菜牛肉”的家常做法，香嫩鲜辣，下饭一绝](https://www.youtube.com/watch?v=Sg6lL5nOCAY)
-- [厨师长用鲜核桃做创新版“宫保鸡丁”，糊辣香嫩，四伯爷打99分](https://www.youtube.com/watch?v=jArsVnwbLmc)
-- [厨师长教你：“豆角烧排骨”“豆角土豆炖排骨”，荤素搭配，汁浓味美](https://www.youtube.com/watch?v=Gg6rw_K0zgw)
+- [我曾经干了 3 年 EDA](http://catcoding.me/p/3-years-in-eda/)
+- [为 Rust 做些小贡献](http://catcoding.me/p/contribute-to-rust/)
+- [让 Obsidian 朗读你的文字](http://catcoding.me/p/obsidian-speech/)
+- [第 21 期：维护自己的 dotfiles；Could Facebook move faster；你和你的研究](http://catcoding.me/p/weekly-21/)
+- [第 20 期：Side Project 指南；打造私人搜索引擎；Ev 不再担任 Medium CEO](http://catcoding.me/p/weekly-20/)
+- [第 19 期，写出更好的文章；Telegram 创始人的建议；我们应该教孩子什么](http://catcoding.me/p/weekly-19/)
+- [第 18 期：程序员的软技能；参与开源项目的建议；人一生有三次死亡](http://catcoding.me/p/weekly-18/)
+- [第 17 期，远程办公；程序员如何保持健康；纳瓦尔宝典](http://catcoding.me/p/weekly-17/)
 <!-- BLOG-POST-LIST:END -->
 
 
