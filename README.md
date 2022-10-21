@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [无意识偏见](http://catcoding.me/p/unconscious-bias/)
 - [我曾经干了 3 年 EDA](http://catcoding.me/p/3-years-in-eda/)
 - [为 Rust 做些小贡献](http://catcoding.me/p/contribute-to-rust/)
 - [让 Obsidian 朗读你的文字](http://catcoding.me/p/obsidian-speech/)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [第 20 期：Side Project 指南；打造私人搜索引擎；Ev 不再担任 Medium CEO](http://catcoding.me/p/weekly-20/)
 - [第 19 期，写出更好的文章；Telegram 创始人的建议；我们应该教孩子什么](http://catcoding.me/p/weekly-19/)
 - [第 18 期：程序员的软技能；参与开源项目的建议；人一生有三次死亡](http://catcoding.me/p/weekly-18/)
-- [第 17 期，远程办公；程序员如何保持健康；纳瓦尔宝典](http://catcoding.me/p/weekly-17/)
 <!-- BLOG-POST-LIST:END -->
 
 
