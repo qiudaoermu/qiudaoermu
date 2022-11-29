@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter 实习生 George Hotz](http://catcoding.me/p/geohot/)
 - [译：阅读的必要性](http://catcoding.me/p/read/)
 - [和 Rust Compiler 开发者面基](http://catcoding.me/p/talk-with-compiler-hacker/)
 - [无意识偏见](http://catcoding.me/p/unconscious-bias/)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [为 Rust 做些小贡献](http://catcoding.me/p/contribute-to-rust/)
 - [让 Obsidian 朗读你的文字](http://catcoding.me/p/obsidian-speech/)
 - [第 21 期：维护自己的 dotfiles；Could Facebook move faster；你和你的研究](http://catcoding.me/p/weekly-21/)
-- [第 20 期：Side Project 指南；打造私人搜索引擎；Ev 不再担任 Medium CEO](http://catcoding.me/p/weekly-20/)
 <!-- BLOG-POST-LIST:END -->
 
 
