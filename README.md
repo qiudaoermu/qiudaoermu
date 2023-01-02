@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [我的 2022](http://catcoding.me/p/2022-summary/)
 - [玩了一周 ChatGPT，谈谈我的想法](http://catcoding.me/p/chatgpt/)
 - [Twitter 实习生 George Hotz](http://catcoding.me/p/geohot/)
 - [译：阅读的必要性](http://catcoding.me/p/read/)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [无意识偏见](http://catcoding.me/p/unconscious-bias/)
 - [我曾经干了 3 年 EDA](http://catcoding.me/p/3-years-in-eda/)
 - [为 Rust 做些小贡献](http://catcoding.me/p/contribute-to-rust/)
-- [让 Obsidian 朗读你的文字](http://catcoding.me/p/obsidian-speech/)
 <!-- BLOG-POST-LIST:END -->
 
 
