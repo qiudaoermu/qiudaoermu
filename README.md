@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [人类的终极工具](http://catcoding.me/p/chatgpt-tools/)
 - [Rust 编译器源码概要](http://catcoding.me/p/rustc-source/)
 - [苹果：为了安全让 M2 吃灰](http://catcoding.me/p/apple-perf/)
 - [为 Rust 做贡献的经验分享](http://catcoding.me/p/how-to-contribute-to-rust/)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [玩了一周 ChatGPT，谈谈我的想法](http://catcoding.me/p/chatgpt/)
 - [Twitter 实习生 George Hotz](http://catcoding.me/p/geohot/)
 - [译：阅读的必要性](http://catcoding.me/p/read/)
-- [和 Rust Compiler 开发者面基](http://catcoding.me/p/talk-with-compiler-hacker/)
 <!-- BLOG-POST-LIST:END -->
 
 
