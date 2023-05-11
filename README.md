@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [新的旅程](http://catcoding.me/p/new-journey/)
 - [不想当作家的程序员写不出 Redis](http://catcoding.me/p/redis-antriez/)
 - [人类的终极工具](http://catcoding.me/p/chatgpt-tools/)
 - [Rust 编译器源码概要](http://catcoding.me/p/rustc-source/)
@@ -46,7 +47,6 @@ Here are some ideas to get you started:
 - [为 Rust 做贡献的经验分享](http://catcoding.me/p/how-to-contribute-to-rust/)
 - [我的 2022](http://catcoding.me/p/2022-summary/)
 - [玩了一周 ChatGPT，谈谈我的想法](http://catcoding.me/p/chatgpt/)
-- [Twitter 实习生 George Hotz](http://catcoding.me/p/geohot/)
 <!-- BLOG-POST-LIST:END -->
 
 
