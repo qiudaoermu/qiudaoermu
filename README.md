@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [学习英语的新工具](http://catcoding.me/p/new_english_tools/)
 - [新的旅程](http://catcoding.me/p/new-journey/)
 - [不想当作家的程序员写不出 Redis](http://catcoding.me/p/redis-antriez/)
 - [人类的终极工具](http://catcoding.me/p/chatgpt-tools/)
@@ -46,7 +47,6 @@ Here are some ideas to get you started:
 - [苹果：为了安全让 M2 吃灰](http://catcoding.me/p/apple-perf/)
 - [为 Rust 做贡献的经验分享](http://catcoding.me/p/how-to-contribute-to-rust/)
 - [我的 2022](http://catcoding.me/p/2022-summary/)
-- [玩了一周 ChatGPT，谈谈我的想法](http://catcoding.me/p/chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 
