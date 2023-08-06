@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [远程办公的体验](http://catcoding.me/p/remote-work/)
 - [升级我的 localhost](http://catcoding.me/p/upgrade-my-dev-tools/)
 - [学习英语的新工具](http://catcoding.me/p/new_english_tools/)
 - [新的旅程](http://catcoding.me/p/new-journey/)
@@ -46,7 +47,6 @@ Here are some ideas to get you started:
 - [人类的终极工具](http://catcoding.me/p/chatgpt-tools/)
 - [Rust 编译器源码概要](http://catcoding.me/p/rustc-source/)
 - [苹果：为了安全让 M2 吃灰](http://catcoding.me/p/apple-perf/)
-- [为 Rust 做贡献的经验分享](http://catcoding.me/p/how-to-contribute-to-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 
