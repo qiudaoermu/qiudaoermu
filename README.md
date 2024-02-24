@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [中外程序员差异](http://catcoding.me/p/diff/)
 - [Copilot，最好的编程助手](http://catcoding.me/p/copilot-for-programming/)
 - [我的 2023](http://catcoding.me/p/2023-summary/)
 - [Andriod 使用 Obsidian 的客户端](http://catcoding.me/p/obsidian-andriod-client-sync-git/)
@@ -46,7 +47,6 @@ Here are some ideas to get you started:
 - [成功申请 Rust Foundation 2023 Fellows](http://catcoding.me/p/rust-foundation-fellows/)
 - [远程办公的体验](http://catcoding.me/p/remote-work/)
 - [升级我的 localhost](http://catcoding.me/p/upgrade-my-dev-tools/)
-- [学习英语的新工具](http://catcoding.me/p/new_english_tools/)
 <!-- BLOG-POST-LIST:END -->
 
 
