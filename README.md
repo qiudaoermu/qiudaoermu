@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Cryptape 招聘 - 区块链开发工程师](http://catcoding.me/p/ckb-vm-hc/)
 - [xz-backdoor 观感](http://catcoding.me/p/xz-backdoor/)
 - [从明天起，做一个 Rust 程序员](http://catcoding.me/p/rust-bootcamp/)
 - [我喜欢的 shell 工具](http://catcoding.me/p/handy-sh-tools/)
@@ -47,6 +46,7 @@ Here are some ideas to get you started:
 - [Copilot，最好的编程助手](http://catcoding.me/p/copilot-for-programming/)
 - [我的 2023](http://catcoding.me/p/2023-summary/)
 - [Andriod 使用 Obsidian 的客户端](http://catcoding.me/p/obsidian-andriod-client-sync-git/)
+- [读《走出戈壁》](http://catcoding.me/p/out-of-the-gobi/)
 <!-- BLOG-POST-LIST:END -->
 
 
