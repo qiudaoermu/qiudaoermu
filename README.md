@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [CKB new script verification with VM pause](http://catcoding.me/p/ckb-new-verify/)
 - [CKB RBF 设计和实现](http://catcoding.me/p/ckb-rbf/)
 - [CKB 交易池重构](http://catcoding.me/p/ckb-txpool-refactor/)
 - [xz-backdoor 观感](http://catcoding.me/p/xz-backdoor/)
@@ -46,7 +47,6 @@ Here are some ideas to get you started:
 - [我喜欢的 shell 工具](http://catcoding.me/p/handy-sh-tools/)
 - [中外程序员差异](http://catcoding.me/p/diff/)
 - [Copilot，最好的编程助手](http://catcoding.me/p/copilot-for-programming/)
-- [我的 2023](http://catcoding.me/p/2023-summary/)
 <!-- BLOG-POST-LIST:END -->
 
 
