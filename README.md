@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust Week 2025 杂记](http://catcoding.me/p/rust-week-notes/)
 - [从椭圆曲线到 secp256k](http://catcoding.me/p/elliptic-curve/)
 - [Future 的大小对性能的影响](http://catcoding.me/p/future-size-perf/)
 - [Fiber Network: 基于 CKB 实现的闪电网络](http://catcoding.me/p/fiber-network-on-ckb/)
@@ -46,7 +47,6 @@ Here are some ideas to get you started:
 - [CKB new script verification with VM pause](http://catcoding.me/p/ckb-new-verify/)
 - [CKB RBF 设计和实现](http://catcoding.me/p/ckb-rbf/)
 - [CKB 交易池重构](http://catcoding.me/p/ckb-txpool-refactor/)
-- [xz-backdoor 观感](http://catcoding.me/p/xz-backdoor/)
 <!-- BLOG-POST-LIST:END -->
 
 
