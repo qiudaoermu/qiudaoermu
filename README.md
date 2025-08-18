@@ -1,20 +1,14 @@
-```
-  .--,       .--,
- ( (  \.---./  ) )
-  '.__/o   o\__.'
-     {=  ^  =}
-      >  -  <
-     /       \
-    //       \\
-   //|   .   |\\
-   "'\       /'"_.-~^`'-.
-      \  _  /--'         `
-    ___)( )(___
-   (((__) (__)))    The high mountains stand still, and the sights stop. Although they can't reach them, they yearn for them
-```
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+## My skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,less,tailwind,vite,webpack,wasm)](https://skillicons.dev)
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=apple,git,linux,mongodb,mysql,nginx,aws,gcp,react,vue,nodejs,nextjs,threejs,ts,babel,npm,pnpm,yarn,md,solidity&perline=8)](https://skillicons.dev)
 
 [![Github](https://img.shields.io/github/followers/qiudaoermu?label=Follow&style=social)](https://github.com/qiudaoermu)
+
 
 <a href="https://github.com/qiudaoermu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qiudaoermu&show_icons=true&count_private=true" alt="qiudaoermu's github stats" />
