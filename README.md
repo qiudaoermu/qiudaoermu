@@ -12,6 +12,7 @@
     ___)( )(___
    (((__) (__)))    The high mountains stand still, and the sights stop. Although they can't reach them, they yearn for them
 ```
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 [![Github](https://img.shields.io/github/followers/qiudaoermu?label=Follow&style=social)](https://github.com/qiudaoermu)
 
