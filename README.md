@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [RISC-V from Scratch: Building a Virtual Machine](http://catcoding.me/p/riscv-vm/)
 - [Rust Week 2025 杂记](http://catcoding.me/p/rust-week-notes/)
 - [从椭圆曲线到 secp256k](http://catcoding.me/p/elliptic-curve/)
 - [Future 的大小对性能的影响](http://catcoding.me/p/future-size-perf/)
@@ -41,7 +42,6 @@ Here are some ideas to get you started:
 - [2024：简单的理想生活](http://catcoding.me/p/2024-summary/)
 - [CKB new script verification with VM pause](http://catcoding.me/p/ckb-new-verify/)
 - [CKB RBF 设计和实现](http://catcoding.me/p/ckb-rbf/)
-- [CKB 交易池重构](http://catcoding.me/p/ckb-txpool-refactor/)
 <!-- BLOG-POST-LIST:END -->
 
 
