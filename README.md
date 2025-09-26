@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [零知识证明入门](http://catcoding.me/p/zero-knowledge-proof/)
 - [RISC-V from Scratch: Building a Virtual Machine](http://catcoding.me/p/riscv-vm/)
 - [Rust Week 2025 杂记](http://catcoding.me/p/rust-week-notes/)
 - [从椭圆曲线到 secp256k](http://catcoding.me/p/elliptic-curve/)
@@ -41,7 +42,6 @@ Here are some ideas to get you started:
 - [Fiber Network: 基于 CKB 实现的闪电网络](http://catcoding.me/p/fiber-network-on-ckb/)
 - [2024：简单的理想生活](http://catcoding.me/p/2024-summary/)
 - [CKB new script verification with VM pause](http://catcoding.me/p/ckb-new-verify/)
-- [CKB RBF 设计和实现](http://catcoding.me/p/ckb-rbf/)
 <!-- BLOG-POST-LIST:END -->
 
 
