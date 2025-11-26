@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [在开源中使用 LLM](http://catcoding.me/p/llm-in-open-source/)
 - [Rust 背锅了：Cloudflare 故障分析](http://catcoding.me/p/rust-in-cloudflare-incident/)
 - [零知识证明入门](http://catcoding.me/p/zero-knowledge-proof/)
 - [RISC-V from Scratch: Building a Virtual Machine](http://catcoding.me/p/riscv-vm/)
@@ -41,7 +42,6 @@ Here are some ideas to get you started:
 - [从椭圆曲线到 secp256k](http://catcoding.me/p/elliptic-curve/)
 - [Future 的大小对性能的影响](http://catcoding.me/p/future-size-perf/)
 - [Fiber Network: 基于 CKB 实现的闪电网络](http://catcoding.me/p/fiber-network-on-ckb/)
-- [2024：简单的理想生活](http://catcoding.me/p/2024-summary/)
 <!-- BLOG-POST-LIST:END -->
 
 
