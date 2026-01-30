@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [hexo-rs：玩 Vibe Coding](http://catcoding.me/p/hexo-rs/)
 - [How Fiber Network Works](http://catcoding.me/p/how-fiber-works/)
 - [在开源中使用 LLM](http://catcoding.me/p/llm-in-open-source/)
 - [Rust 背锅了：Cloudflare 故障分析](http://catcoding.me/p/rust-in-cloudflare-incident/)
@@ -41,7 +42,6 @@ Here are some ideas to get you started:
 - [RISC-V from Scratch: Building a Virtual Machine](http://catcoding.me/p/riscv-vm/)
 - [Rust Week 2025 杂记](http://catcoding.me/p/rust-week-notes/)
 - [从椭圆曲线到 secp256k](http://catcoding.me/p/elliptic-curve/)
-- [Future 的大小对性能的影响](http://catcoding.me/p/future-size-perf/)
 <!-- BLOG-POST-LIST:END -->
 
 
