@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [macOS 奇怪的安全扫码机制](http://catcoding.me/p/apple-gatekeeper-scan/)
 - [hexo-rs：玩 Vibe Coding](http://catcoding.me/p/hexo-rs/)
 - [How Fiber Network Works](http://catcoding.me/p/how-fiber-works/)
 - [在开源中使用 LLM](http://catcoding.me/p/llm-in-open-source/)
@@ -41,7 +42,6 @@ Here are some ideas to get you started:
 - [零知识证明入门](http://catcoding.me/p/zero-knowledge-proof/)
 - [RISC-V from Scratch: Building a Virtual Machine](http://catcoding.me/p/riscv-vm/)
 - [Rust Week 2025 杂记](http://catcoding.me/p/rust-week-notes/)
-- [从椭圆曲线到 secp256k](http://catcoding.me/p/elliptic-curve/)
 <!-- BLOG-POST-LIST:END -->
 
 
