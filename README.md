@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHeron：把网页标注写到 GitHub](http://catcoding.me/p/githeron/)
 - [开发 Runnel 的一些记录](http://catcoding.me/p/runnel-dev-notes/)
 - [macOS 奇怪的安全扫码机制](http://catcoding.me/p/apple-gatekeeper-scan/)
 - [hexo-rs：玩 Vibe Coding](http://catcoding.me/p/hexo-rs/)
@@ -41,7 +42,6 @@ Here are some ideas to get you started:
 - [在开源中使用 LLM](http://catcoding.me/p/llm-in-open-source/)
 - [Rust 背锅了：Cloudflare 故障分析](http://catcoding.me/p/rust-in-cloudflare-incident/)
 - [零知识证明入门](http://catcoding.me/p/zero-knowledge-proof/)
-- [RISC-V from Scratch: Building a Virtual Machine](http://catcoding.me/p/riscv-vm/)
 <!-- BLOG-POST-LIST:END -->
 
 
