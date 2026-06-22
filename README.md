@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Obr: a Web UI for My Obsidian Vault](http://catcoding.me/p/obr-intro/)
 - [ghr：把开源维护工作搬进终端](http://catcoding.me/p/ghr-dev/)
 - [GitHeron：把网页标注写到 GitHub](http://catcoding.me/p/githeron/)
 - [开发 Runnel 的一些记录](http://catcoding.me/p/runnel-dev-notes/)
@@ -41,7 +42,6 @@ Here are some ideas to get you started:
 - [hexo-rs：玩 Vibe Coding](http://catcoding.me/p/hexo-rs/)
 - [How Fiber Network Works](http://catcoding.me/p/how-fiber-works/)
 - [在开源中使用 LLM](http://catcoding.me/p/llm-in-open-source/)
-- [Rust 背锅了：Cloudflare 故障分析](http://catcoding.me/p/rust-in-cloudflare-incident/)
 <!-- BLOG-POST-LIST:END -->
 
 
