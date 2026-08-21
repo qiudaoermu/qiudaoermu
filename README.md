@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Dotr: 一个简单的配置备份工具](http://catcoding.me/p/dotr-intro/)
 - [Obr: a Web UI for My Obsidian Vault](http://catcoding.me/p/obr-intro/)
 - [ghr：把开源维护工作搬进终端](http://catcoding.me/p/ghr-dev/)
 - [GitHeron：把网页标注写到 GitHub](http://catcoding.me/p/githeron/)
@@ -41,7 +42,6 @@ Here are some ideas to get you started:
 - [macOS 奇怪的安全扫码机制](http://catcoding.me/p/apple-gatekeeper-scan/)
 - [hexo-rs：玩 Vibe Coding](http://catcoding.me/p/hexo-rs/)
 - [How Fiber Network Works](http://catcoding.me/p/how-fiber-works/)
-- [在开源中使用 LLM](http://catcoding.me/p/llm-in-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 
