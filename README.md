@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Winlane：我的 Mac 工具箱，按需自制](http://catcoding.me/p/winlane/)
+- [Winlane：我的 Mac 工具箱](http://catcoding.me/p/winlane/)
 - [Dotr: 一个简单的配置备份工具](http://catcoding.me/p/dotr-intro/)
 - [Obr: a Web UI for My Obsidian Vault](http://catcoding.me/p/obr-intro/)
 - [ghr：把开源维护工作搬进终端](http://catcoding.me/p/ghr-dev/)
